@@ -3,6 +3,6 @@ INNOVATION OF SMART TRANSPORTATION ALERT SYSTEMFOR COMMUTERS AND DRIVERS:IMPROVI
 SDLC AND GANT CHART
 
 Members:
-John Patrick Asuncion
-John Martin Meneses
+John Patrick Asuncion,
+John Martin Meneses,
 John Alfred Naga
